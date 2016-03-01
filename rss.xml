@@ -2,21 +2,27 @@
     <channel>
         <title><![CDATA[Brandy Pete's Open Mic with Cory Allen Staats]]></title>
         <description><![CDATA[Brandy Pete's Open Mic with Cory Allen Staats]]></description>
-        <link>http://coryallenstaats.com/</link>
+        <link>http://openmic.coryallenstaats.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 21:22:37 GMT</lastBuildDate>
-        <atom:link href="http://coryallenstaats.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 21:29:29 GMT</lastBuildDate>
+        <atom:link href="http://openmic.coryallenstaats.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://openmic.coryallenstaats.com/3ee3eb61-5731-4782-b03c-937c3a679d92/index.html</link>
+            <guid isPermaLink="false">3ee3eb61-5731-4782-b03c-937c3a679d92</guid>
+            <pubDate>Tue, 01 Mar 2016 21:29:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa55ef5b-1c3b-4544-bf38-0e5b57f9884b.jpg">]]></description>
-            <link>http://coryallenstaats.com/e3c8884a-c169-4ada-8114-e19f1127801a/index.html</link>
+            <link>http://openmic.coryallenstaats.com/e3c8884a-c169-4ada-8114-e19f1127801a/index.html</link>
             <guid isPermaLink="false">e3c8884a-c169-4ada-8114-e19f1127801a</guid>
             <pubDate>Tue, 01 Mar 2016 21:21:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839c2a29-2bfa-47e5-aae4-5ad8997cb433.jpg">]]></description>
-            <link>http://coryallenstaats.com/d1f95882-3d7d-46e9-a8b5-2b7ace131fdc/index.html</link>
+            <link>http://openmic.coryallenstaats.com/d1f95882-3d7d-46e9-a8b5-2b7ace131fdc/index.html</link>
             <guid isPermaLink="false">d1f95882-3d7d-46e9-a8b5-2b7ace131fdc</guid>
             <pubDate>Tue, 01 Mar 2016 20:58:07 GMT</pubDate>
         </item>
