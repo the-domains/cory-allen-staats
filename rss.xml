@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cory Allen Staats]]></title>
-        <description><![CDATA[Cory Allen Staats]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Brandy Pete's Open Mic with Cory Allen Staats]]></title>
+        <description><![CDATA[Brandy Pete's Open Mic with Cory Allen Staats]]></description>
+        <link>http://coryallenstaats.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 20:58:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 21:22:37 GMT</lastBuildDate>
+        <atom:link href="http://coryallenstaats.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa55ef5b-1c3b-4544-bf38-0e5b57f9884b.jpg">]]></description>
+            <link>http://coryallenstaats.com/e3c8884a-c169-4ada-8114-e19f1127801a/index.html</link>
+            <guid isPermaLink="false">e3c8884a-c169-4ada-8114-e19f1127801a</guid>
+            <pubDate>Tue, 01 Mar 2016 21:21:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/839c2a29-2bfa-47e5-aae4-5ad8997cb433.jpg">]]></description>
-            <link>undefinedd1f95882-3d7d-46e9-a8b5-2b7ace131fdc/index.html</link>
+            <link>http://coryallenstaats.com/d1f95882-3d7d-46e9-a8b5-2b7ace131fdc/index.html</link>
             <guid isPermaLink="false">d1f95882-3d7d-46e9-a8b5-2b7ace131fdc</guid>
             <pubDate>Tue, 01 Mar 2016 20:58:07 GMT</pubDate>
         </item>
